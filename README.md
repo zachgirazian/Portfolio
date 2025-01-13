@@ -6,7 +6,7 @@
 |-----|---|---|---|
 | [Automating the Collection of Housing Eviction Data](https://github.com/zachgirazian/eviction_scraper) | Programming, Web Scraping | Scrape statewide eviction filings from Iowa Courts Online | Pandas, BeautifulSoup |
 | [Finding Profitable Sports Bets](https://github.com/zachgirazian/profitable_sports_bets) | Programming, Web Scraping | Scrape sports betting odds on Draftkings to find profitable bets | Pandas, Playwright |
-| [The Path to Victory](https://github.com/zachgirazian/profitable_sports_bets)
+| [The Path to Victory](https://github.com/zachgirazian/profitable_sports_bets) | Programming, 
 ***
 
 # SQL
