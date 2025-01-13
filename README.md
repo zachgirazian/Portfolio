@@ -1,10 +1,5 @@
 # Zach Girazian's Portfolio
 
-## 📚 Table of Contents
-- [Python](#python)
-- [SQL](#sql)
-- [Tableau](#tableau)
-
 # Python
 
 | Project Link | Area | Project Description | Libraries |    
