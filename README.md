@@ -4,7 +4,7 @@
 
 | Project Link | Area | Project Description | Libraries |    
 |-----|---|---|---|
-| [Iowa Eviction Filing Web Scraper](https://github.com/zachgirazian/eviction_scraper) | Programming, Web Scraping | Scrape statewide eviction filings from Iowa Courts Online | Pandas, BeautifulSoup |
+| [Automating the Collection of Housing Eviction Data](https://github.com/zachgirazian/eviction_scraper) | Programming, Web Scraping | Scrape statewide eviction filings from Iowa Courts Online | Pandas, BeautifulSoup |
 | [Finding Profitable Sports Bets](https://github.com/zachgirazian/profitable_sports_bets) | Programming, Web Scraping | Scrape sports betting odds on Draftkings to find profitable bets | Pandas, Playwright |
 
 ***
